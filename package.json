@@ -1,0 +1,39 @@
+{
+  "name": "git-discover",
+  "version": "1.0.0",
+  "description": "Share and explore Open Source Projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheushf/git-discover.git"
+  },
+  "keywords": [
+    "javascript",
+    "react",
+    "sass",
+    "express",
+    "mongodb"
+  ],
+  "author": "matheushf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheushf/git-discover/issues"
+  },
+  "homepage": "https://github.com/matheushf/git-discover#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "jade": "^1.11.0",
+    "morgan": "^1.7.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.0.1",
+    "gulp-watcher": "0.0.1",
+    "jshint": "^2.9.2"
+  }
+}

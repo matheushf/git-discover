@@ -1,0 +1,12 @@
+{
+  "name": "git-discover",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+    "react": "^15.1.0"
+  }
+}
